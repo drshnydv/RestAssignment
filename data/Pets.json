@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "category": {
+    "id": 5,
+    "name": "puppy"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "blnk"
+  ],
+  "tags": [
+    {
+      "id": 4,
+      "name": "jim"
+    }
+  ],
+  "status": "available"
+}
